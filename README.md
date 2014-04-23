@@ -1,4 +1,4 @@
-napic
+REST API C# Client Generator
 =====
 
-REST API C# client generator (apic.js port)
+[apic.js](https://github.com/temich/apic.js) port
