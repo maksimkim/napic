@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<item from="anyType" to="XDocument" />
+	<item from="any" to="Stream" />
+	<item from="anyURI" to="string" />
+	<item from="string" to="string" />
+	<item from="boolean" to="bool" />
+	<item from="positiveInteger" to="int" />
+	<item from="nonNegativeInteger" to="int" />
+	<item from="unsignedLong" to="long" />
+	<item from="double" to="double" />
+	<item from="dateTime" to="DateTime" />
+</map>
